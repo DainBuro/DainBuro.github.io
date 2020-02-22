@@ -1,0 +1,19 @@
+body{
+    background-color: #0d0d0d;
+}
+
+.links{
+    font-family: 'Times New Roman';
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.links:hover{
+    color: cornflowerblue;
+}
+
+.linkbox{
+    background-color: #262626;
+    padding: 10px;
+}
