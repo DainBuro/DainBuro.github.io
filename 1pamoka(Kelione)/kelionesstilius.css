@@ -1,0 +1,17 @@
+body{
+    background-color: #f2f2f2;
+}
+
+h1{
+    color: #00cc00;
+    font-family: Verdana;
+}
+
+p{
+    color: #ff0000;
+    font-family: 'Times New Roman';
+}
+
+.image{
+    height: 180px;
+}
