@@ -1,0 +1,62 @@
+.over{
+    background-color: #1a1a1acc;
+    border: solid #8c8c8c 1px;
+    border-radius: 10px;
+}
+
+.overtext{
+    font-family: arial;
+    padding: 15px;
+    font-size: 20px;
+    color: white;
+    display: inline-block;
+}
+
+.quick{
+    padding: 15px;
+    display: inline-block;
+    float: right;
+}
+
+.quicktext{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: arial;
+}
+
+.quicktext:hover{
+    color: cornflowerblue;
+    transition-duration: 0.3s;
+}
+
+.backdrop{
+    background-image: url("Images/triangles.jpg");
+    width: 100%;
+}
+
+.articleimage{
+    height: 250px;
+    border-radius: 10px;
+}
+
+.imgbox{
+    align-items: center;
+}
+
+.textbox{
+    width: 250px;
+    color: white;
+    font-family: arial;
+    font-size: 18px;
+}
+
+.boxbox{
+    display: block;
+    float: left;
+}
+
+.boxboxbox{
+    display: block;
+    align-items: center;
+}
